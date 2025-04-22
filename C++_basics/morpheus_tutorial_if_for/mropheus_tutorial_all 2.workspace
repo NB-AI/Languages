@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../morpheus_tutorial_Crashkurs_C++/morpheus_tutorial_Crashkurs_C++.cbp" />
+		<Project filename="morpheus_tutorial_if_for.cbp" />
+		<Project filename="../morpheus_tutorial_functions/morpheus_tutorial_functions.cbp" />
+		<Project filename="../morpheus_tutorial_pointer_arrays/morpheus_tutorial_pointer_arrays.cbp" />
+		<Project filename="../morpheus_tutorial_strucks/morpheus_tutorial_strucks.cbp" />
+		<Project filename="../morpheus_tutorial_input_output/morpheus_tutorial_input_output.cbp" />
+		<Project filename="../morpheus_tutorial_strings/morpheus_tutorial_strings.cbp" />
+		<Project filename="../morpheus_tutorial_Klassen/morpheus_tutorial_Klassen.cbp" />
+		<Project filename="../morpheus_tutorial_Konstruktoren/morpheus_tutorial_Konstruktoren.cbp" />
+		<Project filename="../morpheus_tutorial_private_public_Klassen/morpheus_tutorial_private_public_Klassen.cbp" />
+		<Project filename="../morpheus_tutorial_Operatoren_ueberladen/morpheus_tutorial_Operatoren_ueberladen.cbp" />
+		<Project filename="../morpheus_tutorial_this_Call/morpheus_tutorial_this_Call.cbp" />
+		<Project filename="../morpheus_tutorial_static_Klassenvariablen/morpheus_tutorial_static_Klassenvariablen.cbp" />
+		<Project filename="../morpheus_tutorial_const/morpheus_tutorial_const.cbp" />
+		<Project filename="../morpheus_tutorial_HeaderFiles_fuer_Klassendefinitionen/morpheus_tutorial_HeaderFiles_fuer_Klassendefinitionen.cbp" />
+		<Project filename="../morpheus_tutorial_Friendship/morpheus_tutorial_Friendship.cbp" />
+		<Project filename="../morpheus_tutorial_Vererbung/morpheus_tutorial_Vererbung.cbp" />
+		<Project filename="../morpheus_tutorial_Zugriffsmodifikatoren_bei_Vererbung/morpheus_tutorial_Zugriffsmodifikatoren_bei_Vererbung.cbp" />
+		<Project filename="../morpheus_tutorial_Mehrfachvererbung/morpheus_tutorial_Mehrfachvererbung.cbp" />
+		<Project filename="../morpheus_tutorial_Multithreading/morpheus_tutorial_Multithreading.cbp" />
+		<Project filename="../uebungen/uebungen.cbp" />
+		<Project filename="../Uebung2/Uebung2.cbp" />
+		<Project filename="../uebung3/uebung3.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

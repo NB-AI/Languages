@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631210851 source:/home/c/Dokumente/cplusplus/morpheus_tutorial_Friendship/main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+

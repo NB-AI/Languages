@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630933952 source:/home/c/Dokumente/cplusplus/morpheus_tutorial_input_output/main.cpp
+	<stdio.h>
+	<iostream>
+

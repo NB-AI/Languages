@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631205117 source:/home/c/Dokumente/cplusplus/morpheus_tutorial_HeaderFiles_fuer_Klassendefinitionen/main.cpp
+	<stdio.h>
+	<iostream>
+	"my_Vektor.h"
+
+1631204575 /home/c/Dokumente/cplusplus/morpheus_tutorial_HeaderFiles_fuer_Klassendefinitionen/my_Vektor.h
+

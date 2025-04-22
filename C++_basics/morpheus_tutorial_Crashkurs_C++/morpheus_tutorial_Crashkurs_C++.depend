@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630783840 source:/home/c/Dokumente/cplusplus/morpheus_tutorial_Crashkurs_C++/main.cpp
+	<iostream>
+
+1630784136 source:/home/c/Dokumente/cplusplus/morpheus_tutorial_Crashkurs_C++/second.cpp
+	<iostream>
+
+1630836273 source:/home/c/Dokumente/cplusplus/morpheus_tutorial_Crashkurs_C++/if_for.cpp
+	<stdio.h>
+
